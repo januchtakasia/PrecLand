@@ -19,3 +19,5 @@ This repository contains datasets and a script used in the study of landslide pr
 ### Notes on Processing
 •	Remaining analyses and calculations were performed in QGIS.\
 •	The authors also have a script for the automatic generation of raster layers with vegetation indices and their normalization. This script is available from the corresponding author upon reasonable request.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17223716.svg)](https://doi.org/10.5281/zenodo.17223716)
