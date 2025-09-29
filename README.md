@@ -17,5 +17,5 @@ This repository contains datasets and scripts used in the study of landslide pre
 •	Precipitation data were obtained from Big Sur station (GHCN-D: USC00040790) and are publicly available at https://www.ncdc.noaa.gov/cdo-web/search.
 
 ### Notes on Processing
-•	Remaining analyses and calculations were performed in QGIS.
+•	Remaining analyses and calculations were performed in QGIS.\
 •	The authors also have scripts for automatic creation of raster layers with vegetation indices and their normalization; these scripts are available from the corresponding author upon reasonable request.
