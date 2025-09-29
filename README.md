@@ -12,9 +12,9 @@ This repository contains datasets and scripts used in the study of landslide pre
 •	Results_samples/ – example outputs for the datasets in .csv format.
 
 ### Data Sources:
-•	Sentinel-1 SAR data are publicly available at: https://search.asf.alaska.edu/, \
-•	Sentinel-2 multispectral data are publicly available at: https://browser.dataspace.copernicus.eu, \
-•	Rainfall data were obtained from Big Sur station (GHCN-D: USC00040790) and are publicly available at https://www.ncdc.noaa.gov/cdo-web/search.
+•	Sentinel-1 SAR data are publicly available at https://search.asf.alaska.edu/, \
+•	Sentinel-2 multispectral data are publicly available at https://browser.dataspace.copernicus.eu, \
+•	Precipitation data were obtained from Big Sur station (GHCN-D: USC00040790) and are publicly available at https://www.ncdc.noaa.gov/cdo-web/search.
 
 ### Notes on Processing
 •	Remaining analyses and calculations were performed in QGIS.
